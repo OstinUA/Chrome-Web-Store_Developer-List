@@ -1,0 +1,21 @@
+<h2 class="section-title">My Extensions</h2>
+
+<div class="extensions-grid">
+    {% for ext in site.data.extensions %}
+    <div class="extension-card">
+        <div class="extension-header">
+            <img src="{{ ext.logo }}" alt="{{ ext.name }} logo" class="extension-logo">
+            <div class="extension-title-wrapper">
+                <div class="extension-name">{{ ext.name }}</div>
+                <div class="extension-category">{{ ext.category }}</div>
+            </div>
+        </div>
+        <p class="extension-description">{{ ext.description }}</p>
+        <div class="extension-footer">
+            <a href="{{ ext.url }}" target="_blank" rel="noopener noreferrer" class="store-link" title="View in Chrome Web Store">
+                View in Store
+            </a>
+        </div>
+    </div>
+    {% endfor %}
+</div>

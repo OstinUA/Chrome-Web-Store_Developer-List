@@ -1,0 +1,37 @@
+title: My Chrome Extensions
+description: Chrome extensions and open-source tools by FCTostin
+author: FCTostin
+
+# GitHub Pages settings
+# baseurl: ""
+# url: "https://ostinua.github.io"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Exclude from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Plugins (supported by GitHub Pages)
+plugins:
+  - jekyll-seo-tag
+
+# Social / profile
+profile:
+  name: FCTostin
+  subtitle: Database Reliability Engineer & Open Source Developer
+  avatar: https://avatars.githubusercontent.com/u/43548757?s=400&u=7972d24ea545a831f2c2d8785f1e15d121e843f1&v=4
+  bio: >-
+    Hi! I build Chrome extensions and open-source tools focused on ad tech
+    infrastructure, developer productivity, and GitHub automation. My work
+    centers around ads.txt, app-ads.txt, sellers.json ecosystems, and
+    SVG-based GitHub profile customization. Check out my extensions below —
+    all of them are free, open-source, and designed to solve real problems
+    I've encountered in my day-to-day work.
+  github: https://github.com/OstinUA

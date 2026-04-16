@@ -1,0 +1,9 @@
+# Items shown in the scrolling marquee.
+# Usually you want this to match the names from _data/extensions.yml,
+# but you can keep it separate if you want different text there.
+
+- Smart Tab Manager
+- Dark Mode Pro
+- Sellers.json Inspector
+- Ads.txt Line Valid-checker
+- Mass Ads & App-Ads Checker
