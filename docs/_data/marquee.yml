@@ -2,8 +2,12 @@
 # Usually you want this to match the names from _data/extensions.yml,
 # but you can keep it separate if you want different text there.
 
-- Smart Tab Manager
-- Dark Mode Pro
-- Sellers.json Inspector
-- Ads.txt Line Valid-checker
+- adWMG Checker: ads.txt/sellers.json
+- Web Traffic Analyzer & Geo Stats Tool
 - Mass Ads & App-Ads Checker
+- Sellers.json Inspector
+- Inventory Auth Auditor
+- HTML Email parser
+- Качка Боб
+- Ad Network Monitor
+- Ad Inspector Devtools
