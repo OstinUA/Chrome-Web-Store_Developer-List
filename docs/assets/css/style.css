@@ -70,16 +70,28 @@ body {
     gap: 12px;
 }
 
+.logo-link {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    text-decoration: none;
+    transition: opacity 0.2s;
+}
+
+.logo-link:hover {
+    opacity: 0.8;
+}
+
+.chrome-logo {
+    width: 28px;
+    height: 28px;
+    flex-shrink: 0;
+}
+
 .logo-text {
     font-size: 22px;
     font-weight: 400;
     color: var(--text-primary);
-    text-decoration: none;
-    transition: color 0.2s;
-}
-
-.logo-text:hover {
-    color: var(--accent);
 }
 
 .logo-text span {
