@@ -2,15 +2,58 @@
 # Add/remove/edit items freely — the site will rebuild from this file.
 
 - name: "adWMG Checker: ads.txt/sellers.json"
-  category: Productivity
+  category: AdTech / Auditing
   logo: https://lh3.googleusercontent.com/8kqdpLYWa4eqXbf5DbSglyFYQj_x5iQJtyIZzgH8KqBnRzkbt2By7YHGJ4yueAc1tAWWO-0ddLxFQZt3x4pQo2Nk2lo=s60
-  description: Validate ads.txt and app-ads.txt files, cross-reference seller IDs with sellers.json, detect errors, and analyze SPO metrics
-  url: https://chromewebstore.google.com/detail/adwmg-checker-adstxtselle/gdmhmbejelimkohnpineofcgdigocdog?hl=ru&authuser=0
+  description: A specialized tool for granular validation of specific lines within ads.txt, app-ads.txt, and sellers.json files, ensuring strict compliance with current IAB transparency standards.
+  url: https://chromewebstore.google.com/detail/adwmg-checker-adstxtselle/gdmhmbejelimkohnpineofcgdigocdog
   repo: https://github.com/OstinUA/ads.txt-app-ads.txt-sellers.json-Lines-Checker
 
-- name: "Dark Mode Pro"
-  category: Accessibility
-  logo: https://via.placeholder.com/48
-  description: Adaptive dark theme for all websites with customizable scheduling and per-site overrides.
-  url: https://chrome.google.com/webstore/detail/...
-  repo: https://github.com/OstinUA/dark-mode-pro
+- name: "Web Traffic Analyzer & Geo Stats Tool"
+category: Analytics / Data Processing
+logo: https://lh3.googleusercontent.com/bqO7o_mSGsbRJu4de607qc8okMGQvlU_tlBwxYwdY4B1WB2BW7tcjUbe9c00TPprLmeSzsIlwwjRqiF6kN5E0v3bdA=s60
+description: A data processing utility designed to analyze and aggregate traffic statistics, providing actionable insights for evaluating advertising performance and inventory monetization.
+url: texttexttext
+repo: https://github.com/OstinUA/Traffic-Stats-Analyzer
+  
+- name: "Mass Ads & App-Ads Checker"
+category: AdTech / Automation
+logo: https://lh3.googleusercontent.com/PhCubbhlNjw1JellJ-XsYhAmWyyu5o98nuXa-nFOMBOfA28wGsrG0Zu-XjqLlcYLImcHgx3mSYJAP4Iczq79HGh7gg=s60
+description: A modular bulk validation tool engineered to automatically verify the presence and syntax accuracy of ads.txt and app-ads.txt files across extensive domain lists.
+url: https://chromewebstore.google.com/detail/mass-ads-app-ads-checker/gmojbjflbpipemmhpbhpfhegkmoeobmg
+repo: https://github.com/OstinUA/Mass-Ads-App-Ads-Checker
+  
+- name: "Sellers.json Inspector"
+category: AdTech / Inspection
+logo: https://lh3.googleusercontent.com/fFOJEwdyqigwCZPIKArVAGA0A4Vfu3qQhUVinlItNg_ScBwxZ1HBPuRgyNNXzYtk0jwyMj_I33lxktq6JflwK29nCQ=s60
+description: A parsing and inspection tool for sellers.json files. It delivers syntax highlighting, domain verification, and real-time aggregated data analysis for programmatic supply chains.
+url: https://chromewebstore.google.com/detail/sellersjson-inspector/neboddkndfhfoeoolmdfgeelajmpdkfm
+repo: https://github.com/OstinUA/Sellers.json-Inspector
+  
+- name: "Inventory Auth Auditor"
+category: AdTech / Compliance
+logo: https://lh3.googleusercontent.com/E71Pz7MWStEj7txk0AHhr4PDT0m1elXab_V4gh63feh8xsOlPOKivKBJFwNvEXWZBctg2L7tLmmSSYmzTa1sjAgm-g=s60
+description: An asynchronous auditing tool for authorized digital inventory. It identifies structural errors and missing entries to prevent revenue leakage caused by misconfigured ad authorization files.
+url: https://chromewebstore.google.com/detail/inventory-auth-auditor/pnehbpfjeogdfkhebkjmiehijhddfeld
+repo: https://github.com/OstinUA/Inventory-Auth-Auditor
+  
+- name: "HTML Email parser"
+category: Web Scraping / Lead Generation
+logo: https://lh3.googleusercontent.com/PAHnE7OdwKNsH-12kVVFJh2HpQYYYCjoMn1iCrvWblAA-4csxDQudUuSJ_EOaORTtEqwKmAHeencKx7E33UpOPHaxw=s60
+description: An advanced DOM parsing tool for deep extraction of contact information. It handles basic obfuscation and automates the background scanning of target pages for AdOps and publisher outreach.
+url: https://chromewebstore.google.com/detail/html-email-parser/pndgpokmlfafholbjfhdombdcfcmfofg
+repo: https://github.com/OstinUA/HTML-Email-parser
+  
+- name: "Качка Боб"
+category: Utility / Automation
+logo: https://lh3.googleusercontent.com/Kkg3yOzzW7JDYcZn_OmuEwFZ3Q9DiLY6Kr9Fh68Vb1vXRXz_S1W5QL9oBytBOETxSQVAk2gb9gubx5dvptH8PDG3bQ=s60
+description: A custom automation utility designed to streamline routine programmatic operations, integrate external services, and monitor technical workflows.
+url: https://chromewebstore.google.com/detail/качка-боб/jhifilmhhnmomjgmkaajndkenglllcca
+repo: https://github.com/OstinUA/Duck-Bob
+  
+#  Template
+#  - name: "texttexttext"
+#  category: texttexttext
+#  logo: texttexttext
+#  description: texttexttext
+#  url: texttexttext
+#  repo: texttexttext
