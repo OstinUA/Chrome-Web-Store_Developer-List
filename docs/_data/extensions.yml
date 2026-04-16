@@ -8,7 +8,7 @@
   url: https://chromewebstore.google.com/detail/adwmg-checker-adstxtselle/gdmhmbejelimkohnpineofcgdigocdog?hl=ru&authuser=0
   repo: https://github.com/OstinUA/ads.txt-app-ads.txt-sellers.json-Lines-Checker
 
-- name: Dark Mode Pro
+- name: "Dark Mode Pro"
   category: Accessibility
   logo: https://via.placeholder.com/48
   description: Adaptive dark theme for all websites with customizable scheduling and per-site overrides.

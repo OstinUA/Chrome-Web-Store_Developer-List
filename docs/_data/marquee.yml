@@ -2,7 +2,7 @@
 # Usually you want this to match the names from _data/extensions.yml,
 # but you can keep it separate if you want different text there.
 
-- adWMG Checker: ads.txt/sellers.json
+- "adWMG Checker: ads.txt/sellers.json"
 - Web Traffic Analyzer & Geo Stats Tool
 - Mass Ads & App-Ads Checker
 - Sellers.json Inspector
