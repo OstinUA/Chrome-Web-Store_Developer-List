@@ -1,0 +1,12 @@
+<div class="marquee-wrapper">
+    <div class="marquee">
+        {% for pass in (1..2) %}
+        <div class="marquee-content"{% if forloop.index == 2 %} aria-hidden="true"{% endif %}>
+            {% for item in site.data.marquee %}
+            <span class="marquee-item">{{ item }}</span>
+            <span class="marquee-item marquee-separator">·</span>
+            {% endfor %}
+        </div>
+        {% endfor %}
+    </div>
+</div>
