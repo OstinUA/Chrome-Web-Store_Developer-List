@@ -6,9 +6,11 @@
   logo: https://via.placeholder.com/48
   description: A convenient tool for grouping, saving, and managing large numbers of open tabs with session support.
   url: https://chrome.google.com/webstore/detail/...
+  repo: https://github.com/OstinUA/smart-tab-manager
 
 - name: Dark Mode Pro
   category: Accessibility
   logo: https://via.placeholder.com/48
   description: Adaptive dark theme for all websites with customizable scheduling and per-site overrides.
   url: https://chrome.google.com/webstore/detail/...
+  repo: https://github.com/OstinUA/dark-mode-pro
