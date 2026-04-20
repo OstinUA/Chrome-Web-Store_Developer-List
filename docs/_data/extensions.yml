@@ -7,13 +7,6 @@
   description: A specialized tool for granular validation of specific lines within ads.txt, app-ads.txt, and sellers.json files, ensuring strict compliance with current IAB transparency standards.
   url: https://chromewebstore.google.com/detail/adwmg-checker-adstxtselle/gdmhmbejelimkohnpineofcgdigocdog
   repo: https://github.com/OstinUA/ads.txt-app-ads.txt-sellers.json-Lines-Checker
-
-- name: "Web Traffic Analyzer & Geo Stats Tool"
-  category: Analytics / Data Processing
-  logo: https://lh3.googleusercontent.com/bqO7o_mSGsbRJu4de607qc8okMGQvlU_tlBwxYwdY4B1WB2BW7tcjUbe9c00TPprLmeSzsIlwwjRqiF6kN5E0v3bdA=s60
-  description: A data processing utility designed to analyze and aggregate traffic statistics, providing actionable insights for evaluating advertising performance and inventory monetization.
-  url: texttexttext
-  repo: https://github.com/OstinUA/Traffic-Stats-Analyzer
   
 - name: "Mass Ads & App-Ads Checker"
   category: AdTech / Automation
@@ -29,12 +22,33 @@
   url: https://chromewebstore.google.com/detail/sellersjson-inspector/neboddkndfhfoeoolmdfgeelajmpdkfm
   repo: https://github.com/OstinUA/Sellers.json-Inspector
   
+- name: "Web Traffic Analyzer & Geo Stats Tool"
+  category: Analytics / Data Processing
+  logo: https://lh3.googleusercontent.com/bqO7o_mSGsbRJu4de607qc8okMGQvlU_tlBwxYwdY4B1WB2BW7tcjUbe9c00TPprLmeSzsIlwwjRqiF6kN5E0v3bdA=s60
+  description: A data processing utility designed to analyze and aggregate traffic statistics, providing actionable insights for evaluating advertising performance and inventory monetization.
+  url: 111111
+  repo: https://github.com/OstinUA/Traffic-Stats-Analyzer
+  
 - name: "Inventory Auth Auditor"
   category: AdTech / Compliance
   logo: https://lh3.googleusercontent.com/E71Pz7MWStEj7txk0AHhr4PDT0m1elXab_V4gh63feh8xsOlPOKivKBJFwNvEXWZBctg2L7tLmmSSYmzTa1sjAgm-g=s60
   description: An asynchronous auditing tool for authorized digital inventory. It identifies structural errors and missing entries to prevent revenue leakage caused by misconfigured ad authorization files.
   url: https://chromewebstore.google.com/detail/inventory-auth-auditor/pnehbpfjeogdfkhebkjmiehijhddfeld
   repo: https://github.com/OstinUA/Inventory-Auth-Auditor
+  
+- name: "Ad Network Logger"
+  category: AdTech / Monitor
+  logo: https://lh3.googleusercontent.com/3lIRo8ksX-UPn43ZPUgDSlz3IG2dyHnsX0o-REZdbpSKFVo3URCkH3CMCJ6swFORjC6WB31XyWm6C01SsQQrjIL2cQ=s60
+  description: Monitor and analyze ad network requests in real time with detailed categorization and export capabilities.
+  url: 111111
+  repo: https://github.com/OstinUA/ad-network-logger
+  
+- name: "Programmatic ad-scanner"
+  category: AdTech / Monitor
+  logo: https://lh3.googleusercontent.com/bnewkertSIDYdmMCwd3ofoxlZoRjOQt22-TV-SsHUYkjyLr2aLuuhrDQdmkaZ8nM4cW_P2ISi63PJGt8n4cq5jV8Uy8=s60
+  description: Professional AdOps debugging tool. Detects ad units, SSPs, header bidding, and ad tech signals on any page.
+  url: 111111
+  repo: https://github.com/OstinUA/programmatic-ad-scanner
   
 - name: "HTML Email parser"
   category: Web Scraping / Lead Generation
@@ -43,7 +57,7 @@
   url: https://chromewebstore.google.com/detail/html-email-parser/pndgpokmlfafholbjfhdombdcfcmfofg
   repo: https://github.com/OstinUA/HTML-Email-parser
   
-- name: "Качка Боб"
+- name: "Duck-Bob"
   category: Utility / Automation
   logo: https://lh3.googleusercontent.com/Kkg3yOzzW7JDYcZn_OmuEwFZ3Q9DiLY6Kr9Fh68Vb1vXRXz_S1W5QL9oBytBOETxSQVAk2gb9gubx5dvptH8PDG3bQ=s60
   description: A custom automation utility designed to streamline routine programmatic operations, integrate external services, and monitor technical workflows.
