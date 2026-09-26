@@ -6,84 +6,84 @@
   logo: https://lh3.googleusercontent.com/8kqdpLYWa4eqXbf5DbSglyFYQj_x5iQJtyIZzgH8KqBnRzkbt2By7YHGJ4yueAc1tAWWO-0ddLxFQZt3x4pQo2Nk2lo=s60
   description: A specialized tool for granular validation of specific lines within ads.txt, app-ads.txt, and sellers.json files, ensuring strict compliance with current IAB transparency standards.
   url: https://chromewebstore.google.com/detail/adwmg-checker-adstxtselle/gdmhmbejelimkohnpineofcgdigocdog
-  repo: https://github.com/OstinUA/ads.txt-app-ads.txt-sellers.json-Lines-Checker
+  repo: https://github.com/Chrome-Extensions-labs/ads.txt-app-ads.txt-sellers.json-Lines-Checker
   
 - name: "Mass Ads & App-Ads Checker"
   category: AdTech / Automation
   logo: https://lh3.googleusercontent.com/PhCubbhlNjw1JellJ-XsYhAmWyyu5o98nuXa-nFOMBOfA28wGsrG0Zu-XjqLlcYLImcHgx3mSYJAP4Iczq79HGh7gg=s60
   description: A modular bulk validation tool engineered to automatically verify the presence and syntax accuracy of ads.txt and app-ads.txt files across extensive domain lists.
   url: https://chromewebstore.google.com/detail/mass-ads-app-ads-checker/gmojbjflbpipemmhpbhpfhegkmoeobmg
-  repo: https://github.com/OstinUA/Mass-Ads-App-Ads-Checker
+  repo: https://github.com/Chrome-Extensions-labs/Mass-Ads-App-Ads-Checker
   
 - name: "Sellers.json Inspector"
   category: AdTech / Inspection
   logo: https://lh3.googleusercontent.com/fFOJEwdyqigwCZPIKArVAGA0A4Vfu3qQhUVinlItNg_ScBwxZ1HBPuRgyNNXzYtk0jwyMj_I33lxktq6JflwK29nCQ=s60
   description: A parsing and inspection tool for sellers.json files. It delivers syntax highlighting, domain verification, and real-time aggregated data analysis for programmatic supply chains.
   url: https://chromewebstore.google.com/detail/sellersjson-inspector/neboddkndfhfoeoolmdfgeelajmpdkfm
-  repo: https://github.com/OstinUA/Sellers.json-Inspector
+  repo: https://github.com/Chrome-Extensions-labs/Sellers.json-Inspector
   
 - name: "Inventory Auth Auditor"
   category: AdTech / Compliance
   logo: https://lh3.googleusercontent.com/E71Pz7MWStEj7txk0AHhr4PDT0m1elXab_V4gh63feh8xsOlPOKivKBJFwNvEXWZBctg2L7tLmmSSYmzTa1sjAgm-g=s60
   description: An asynchronous auditing tool for authorized digital inventory. It identifies structural errors and missing entries to prevent revenue leakage caused by misconfigured ad authorization files.
   url: https://chromewebstore.google.com/detail/inventory-auth-auditor/pnehbpfjeogdfkhebkjmiehijhddfeld
-  repo: https://github.com/OstinUA/Inventory-Auth-Auditor
+  repo: https://github.com/Chrome-Extensions-labs/Inventory-Auth-Auditor
   
 - name: "Ad Network Logger"
   category: AdTech / Monitor
   logo: https://lh3.googleusercontent.com/3lIRo8ksX-UPn43ZPUgDSlz3IG2dyHnsX0o-REZdbpSKFVo3URCkH3CMCJ6swFORjC6WB31XyWm6C01SsQQrjIL2cQ=s60
   description: Monitor and analyze ad network requests in real time with detailed categorization and export capabilities.
   url: https://chromewebstore.google.com/detail/ad-network-logger/obplbeempbagbggnobgechlhpldmlfll
-  repo: https://github.com/OstinUA/ad-network-logger
+  repo: https://github.com/Chrome-Extensions-labs/ad-network-logger
   
 - name: "Programmatic ad-scanner"
   category: AdTech / Monitor
   logo: https://lh3.googleusercontent.com/bnewkertSIDYdmMCwd3ofoxlZoRjOQt22-TV-SsHUYkjyLr2aLuuhrDQdmkaZ8nM4cW_P2ISi63PJGt8n4cq5jV8Uy8=s60
   description: Professional AdOps debugging tool. Detects ad units, SSPs, header bidding, and ad tech signals on any page.
   url: https://chromewebstore.google.com/detail/programmatic-ad-scanner/cbimifbdmnobhmnpclljjnnaggcialof
-  repo: https://github.com/OstinUA/programmatic-ad-scanner
+  repo: https://github.com/Chrome-Extensions-labs/programmatic-ad-scanner
   
 - name: "Web Traffic Analyzer & Geo Stats Tool"
   category: Analytics / Data Processing
   logo: https://lh3.googleusercontent.com/bqO7o_mSGsbRJu4de607qc8okMGQvlU_tlBwxYwdY4B1WB2BW7tcjUbe9c00TPprLmeSzsIlwwjRqiF6kN5E0v3bdA=s60
   description: A data processing utility designed to analyze and aggregate traffic statistics, providing actionable insights for evaluating advertising performance and inventory monetization.
   url: https://chromewebstore.google.com/detail/web-traffic-analyzer-geo-stats-tool/ghefjempjpcoemfdkecdlaafjmikiind
-  repo: https://github.com/OstinUA/Traffic-Stats-Analyzer
+  repo: https://github.com/Chrome-Extensions-labs/Traffic-Stats-Analyzer
   
 - name: "HTML Email parser"
   category: Web Scraping / Lead Generation
   logo: https://lh3.googleusercontent.com/PAHnE7OdwKNsH-12kVVFJh2HpQYYYCjoMn1iCrvWblAA-4csxDQudUuSJ_EOaORTtEqwKmAHeencKx7E33UpOPHaxw=s60
   description: An advanced DOM parsing tool for deep extraction of contact information. It handles basic obfuscation and automates the background scanning of target pages for AdOps and publisher outreach.
   url: https://chromewebstore.google.com/detail/html-email-parser/pndgpokmlfafholbjfhdombdcfcmfofg
-  repo: https://github.com/OstinUA/HTML-Email-parser
+  repo: https://github.com/Chrome-Extensions-labs/HTML-Email-parser
   
 - name: "Game Store Link Extractor"
   category: Utility / Scanner
   logo: https://lh3.googleusercontent.com/ZQ2cPf-eWD4Ti1cPJSCxzlzIz-YMWrG27jZZcNQ_8zTv94XHElHuHI36YwCa8jVq3gro832l9gLYvKadNciZ-Mgm=s60
   description: Extracting app links from Google Play and Apple App Store search pages?, with automatic store detection, URL canonicalization, deduplication, and noise filtering.
   url: https://chromewebstore.google.com/detail/game-store-link-extractor/hbgjmlebjchbpjkpddccfkebcofpfmgc
-  repo: https://github.com/OstinUA/Game-Store-link-extractor
+  repo: https://github.com/Chrome-Extensions-labs/Game-Store-link-extractor
   
 - name: "Site Analyzer"
   category: Utility / Scanner
   logo: https://lh3.googleusercontent.com/AZwfHV5qGxXBPn52JBRqrMa2txIGWMtBSwhoKdcRY9wwqiiAZm1hMizmAZUqdHI3zBIR0OF4taVsur4gLmccvi-F5Ok=s60
   description: Bulk website auditing and URL health analysis. Instantly detect parked domains, evaluate content quality, and fingerprint CMS platforms (WordPress, Shopify) locally.
   url: https://chromewebstore.google.com/detail/site-analyzer/kendeehbgfnaoegjlkiifabflimdonai
-  repo: https://github.com/OstinUA/Site-Analyzer
+  repo: https://github.com/Chrome-Extensions-labs/Site-Analyzer
   
 - name: "Duck-Bob"
   category: Utility / Automation
   logo: https://lh3.googleusercontent.com/Kkg3yOzzW7JDYcZn_OmuEwFZ3Q9DiLY6Kr9Fh68Vb1vXRXz_S1W5QL9oBytBOETxSQVAk2gb9gubx5dvptH8PDG3bQ=s60
   description: A custom automation utility designed to streamline routine programmatic operations, integrate external services, and monitor technical workflows.
   url: https://chromewebstore.google.com/detail/качка-боб/jhifilmhhnmomjgmkaajndkenglllcca
-  repo: https://github.com/OstinUA/Duck-Bob
+  repo: https://github.com/Chrome-Extensions-labs/Duck-Bob
   
 - name: "Multi-line Auto-typer"
   category: Utility / Automation
   logo: https://lh3.googleusercontent.com/UJSRSd0eIS-2KIuUvYioA5M_pJGPbxVG7tSwv80ZGaYxt5uBwTFC2fWzOl6YDrr6e_MqRGraIlEHMV41aExaR_eFtJk=s60
   description: Automating sequential list insertions into any editable field. Simulates real user input with customizable millisecond delays and built-in deduplication.
   url: https://chromewebstore.google.com/detail/multi-line-auto-typer/kdncbmnbapmijjeoendkmhmpfengiklb
-  repo: https://github.com/OstinUA/multi-line-auto-typer
+  repo: https://github.com/Chrome-Extensions-labs/multi-line-auto-typer
   
 #  Template
 #  - name: "texttexttext"
